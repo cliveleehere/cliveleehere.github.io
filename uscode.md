@@ -7,7 +7,7 @@ permalink: /uscode/
 
 ![uscode banner](/assets/uscode/1024x500.png)
 
-Browse, search, send, and favorite the United States Code!
+Browse, search, send, and favorite the United States Code on your Android device.
 
 All Titles, 1 to 54, are completely free! No network connection required!
 
@@ -25,4 +25,4 @@ Features:
 - Share any part of the USC with apps on your device, such as email, text, drive, and more!
 - Navigate the USC quickly via the intuitive UI
 
-[Link to the play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.statutesapp)
+[Link to the Google play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.statutesapp)
