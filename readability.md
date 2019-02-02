@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Readability Test
+title: Readability Test Pro
 navtitle: readability
 permalink: /Readability/
 ---
