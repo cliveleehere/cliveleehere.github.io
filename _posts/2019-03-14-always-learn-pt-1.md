@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Always Learn, part 1: What and When"
 categories: website
