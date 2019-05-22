@@ -7,8 +7,13 @@ permalink: /talks/
 
 These are links to some of the talks I've done in the past.
 
+### _Augmenting Reality: From Fun to Furnished_
+- [Droidcon Boston 2019](https://www.droidcon-boston.com/agenda/), April 8, 2019
+- [Slides](https://speakerdeck.com/cliveleehere/augmented-reality-from-fun-to-furnished)
+
+
 ### _Pragmatic Gradle for Your Multi-Module Projects_
-- [Droidcon Boston 2018](http://2018.droidcon-boston.com/agenda/), March 28-29, 2018.
+- [Droidcon Boston 2018](http://2018.droidcon-boston.com/agenda/), March 28-29, 2018
 - [Slides](https://speakerdeck.com/cliveleehere/pragmatic-gradle-for-your-multi-module-projects)
 
 <br>
