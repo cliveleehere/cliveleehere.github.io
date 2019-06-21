@@ -37,15 +37,19 @@ It can be daunting even deciding what to learn.
 So here are some heuristics that I've used when decide whether to learn something that required significant investment.
 
 1. Maturity & Future Viability
-Don't be the first one in the pool.  Don't be the second, either.  Be about the third, and make sure there are big players who rely on the said pool and have incentives to keep the pool well-maintained. (There are other reasons to jump in first such as name recognition, or you may want to write or give a talk about the pool).  Okay, so I'm stretching the analogy a bit here, but you get the idea.  Assess the maturity and future viability of whatever you might learn (and there are tools online that help with this, like ThoughtWorks radar!)
+
+    Don't be the first one in the pool.  Don't be the second, either.  Be about the third, and make sure there are big players who rely on the said pool and have incentives to keep the pool well-maintained. (There are other reasons to jump in first such as name recognition, or you may want to write or give a talk about the pool).  Okay, so I'm stretching the analogy a bit here, but you get the idea.  Assess the maturity and future viability of whatever you might learn (and there are tools online that help with this, like ThoughtWorks radar!)
 
 2. A Clear Destination
-I got back into programming because I thought I had a killer idea.  Turns out my idea was too hard for me to execute, but along the way I picked up some skills that made me employable.  Along the journey, as I took these huge, costly steps, I learned enough to change my destination, to course correct.  So lay out a clear destination of what you want to build, or what you want to learn, and how you will get there.  And chart a path with potential exits and side roads.  
+    
+    I got back into programming because I thought I had a killer idea.  Turns out my idea was too hard for me to execute, but along the way I picked up some skills that made me employable.  Along the journey, as I took these huge, costly steps, I learned enough to change my destination, to course correct.  So lay out a clear destination of what you want to build, or what you want to learn, and how you will get there.  And chart a path with potential exits and side roads.  
 
 3. Same Mountain, Different Path
-Rewriting [old software]({% link _posts/2019-03-06-rewriting-experience.md %}) can be a good way to decide on what to learn.  It's *tangential* not in the tech stack that you know, but in terms of domain knowledge you already have.  Because you know *what* to build already, you can invest more in *how* to rebuild it.  The familiar mountain terrain may be easier to navigate, the familiar sights guiding your path to the summit, even as you chart a new path.
 
-4. TOO COOL!!
-We're geeks.  Sometimes the more you hear about something, the more you want to learn how to use it.  "For Jacob loved Rebecca, and seven years seemed like days."
+    Rewriting [old software]({% link _posts/2019-03-06-rewriting-experience.md %}) can be a good way to decide on what to learn.  It's *tangential* not in the tech stack that you know, but in terms of domain knowledge you already have.  Because you know *what* to build already, you can invest more in *how* to rebuild it.  The familiar mountain terrain may be easier to navigate, the familiar sights guiding your path to the summit, even as you chart a new path.
+
+4. "TOO COOL!!"
+
+    We're geeks.  Sometimes the more you hear about something, the more you want to learn how to use it.  "For Jacob loved Rebecca, and seven years seemed like days."
 
 That's it for now! Hope this helps you, dear reader, in deciding what huge, adventures you will take next! (along with the tangential improvements, of course!)
