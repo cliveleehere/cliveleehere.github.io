@@ -14,7 +14,7 @@ The rationale was to minimize the mental overhead caused by context switching, t
 
 But there are downsides to this approach:
 - This approach won't allow you to learn something that's completely different from what you already know.  
-- This approach may keep you in a niche which over time turns out to be not as lucrative.
+- This approach may keep you in a niche which over time turns out to be not as lucrative or even financially viable.
 
 So we have to tweak our formula here on 'what' we should learn.
 
