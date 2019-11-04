@@ -11,11 +11,12 @@ Browse, search, send, and favorite the United States Code on your Android device
 
 All Titles, 1 to 54, are completely free! No network connection required!
 
-Contents are current through Public Law 115-84 (11/17/2017). Contents are from the Office of the Law Revision Counsel.
+Contents are from the Office of the Law Revision Counsel.
 
 United States Code is also known as the Code of Laws of the United States of America, US Code, or USC.  It is the official compilation and codification of the federal statutes of the United States.
 
 Features:
+- Adaptive dark theme for Android 10
 - Fastest way to search through the USC, on any device or platform
 - Search Title headings, or in a specific Title, sub-title headings or sections
 - Favorite any section, title, sub-title, or any other level to quickly access them for later
