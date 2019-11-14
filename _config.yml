@@ -24,8 +24,12 @@ github:  cliveleehere
 linkedin: clive-lee
 medium: cliveleehere
 
-#header_pages:
-#  - about.md
+header_pages:
+  - talks.md
+  - uscode.md
+  - readability.md
+  - toggle.md
+  - bar.md
 
 # Build settings
 markdown: kramdown
