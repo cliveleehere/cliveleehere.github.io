@@ -26,4 +26,6 @@ Features:
 - Share any part of the USC with apps on your device, such as email, text, drive, and more!
 - Navigate the USC quickly via the intuitive UI
 
-[Link to the Google play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.statutesapp)
+[Free version on the Google play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.statutesapp)
+
+[Pro version on the Google play store. Ad free!](https://play.google.com/store/apps/details?id=com.rightfromleftsw.statutesapp.pro)
