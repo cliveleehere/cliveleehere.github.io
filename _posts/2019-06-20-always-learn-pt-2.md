@@ -22,7 +22,7 @@ To avoid these potential downsides, we have to tweak our formula here on 'what' 
     ...
 </p>
 
-The opposite of taking a small incremental step is, obviously, to take a huge one. If you're stuck in a local maximum, you need to take a giant step in *some* direction. But in *which* direction?
+The opposite of taking a small incremental step is to take a huge one. If you're stuck in a local maximum, you need to take a giant step in *some* direction. But in *which* direction?
 
 Choosing a direction can be scary, at least it is scary for me.  There are two reasons to be scared (and these reasons are related to the downsides of the tangential approach above).  
 - There's always a *cost* to learning something new.  The cost isn't just measured by time, effort, resources, and opportunity cost, but also by the *magnitude* of the step, as in how big of a conceptual gap exists between what you already know vs. what you're trying to learn.  
@@ -38,11 +38,11 @@ So here are some heuristics that I've used when to decide whether to learn somet
 
 1. Maturity & Future Viability
 
-    Don't be the first one in the pool.  Don't be the second, either.  Be about the third, and make sure there are big players who rely on the said pool and have incentives to keep the pool well-maintained. (There are other reasons to jump in first, such as name recognition, or you may want to write or give a conference talk about the pool).  Okay, so I'm stretching the analogy a bit here, but you get the idea.  Assess the maturity and future viability of whatever you might learn.  There are tools online that help with this, like ThoughtWorks radar.
+    Don't be the first one in the pool.  Don't be the second, either.  Be about the third, and make sure there are big players who rely on the said pool and have incentives to keep the pool well-maintained. (There are other reasons to jump in first, such as name recognition, or you may want to write or give a conference talk about the pool).  Okay, so I'm stretching the analogy a bit here, but you get the idea.  Assess the maturity and future viability of whatever you might learn.  There are tools online that help with this, like [ThoughtWorks technology radar](https://www.thoughtworks.com/radar).
 
-2. A Clear Destination
+2. A Clear Destination & Potential Exits
     
-    I got back into programming because I thought I had a killer app idea.  Turns out my idea was too hard for me to execute, but along the way I picked up some skills that made me employable.  As I took these huge, costly steps, I learned published smaller apps that would build up my resume, and hence make me more employable.  After about a year, even though I had barely started on my killer app idea, I was able to fill out my resume with my other, smaller projects that were published on the Google play store.  As a bonus, try to either monetize these projects or open source them.
+    I got back into programming because I thought I had a killer app idea.  Turns out my idea was too hard for me to execute, but along the way I picked up some skills that made me employable.  As I took these huge, costly steps, I learned & published smaller apps that would build up my resume, and hence make me more employable.  After about a year, even though I had barely started on my killer app idea, I was able to fill out my resume with my other, smaller projects that were published on the Google play store.  As a bonus, I monetized these smaller apps.  Another option would have been to open source them.
     
     In short, lay out a clear end-product of what you want to build, and what you need to learn to build it.  Have some timeline of how long you would spend in the 'learning' phase, with side roads and potential exits along the way.
 
