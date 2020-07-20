@@ -13,7 +13,8 @@ This app is not made by Toggl; users must create a Toggl acocunt separately. Thi
 
 Now you can place a 'refresh' widget right on your home screen. Pressing the refresh widget will refresh all your other widgets so that you can find which time entry is running right away! Useful if you use multiple devices / laptop / browser!
 
-[Link to the Google play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.toggltoggles)
+[Link to the Google play store, Free ad-supported version](https://play.google.com/store/apps/details?id=com.rightfromleftsw.toggltoggles)
+[Link to the Google play store, Pro version](https://play.google.com/store/apps/details?id=com.rightfromleftsw.toggltoggles.pro)
 
 [Link to the Toggl service](https://toggl.com/)
 
