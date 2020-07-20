@@ -16,3 +16,6 @@ Now you can place a 'refresh' widget right on your home screen. Pressing the ref
 [Link to the Google play store](https://play.google.com/store/apps/details?id=com.rightfromleftsw.toggltoggles)
 
 [Link to the Toggl service](https://toggl.com/)
+
+Privacy Policy:
+Your data is not collected or used by RightFromLeftSw. Please refer to Toggl's privacy policy for the data you submit to Toggl using this app.
