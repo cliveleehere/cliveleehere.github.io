@@ -30,7 +30,6 @@ header_pages:
   - readability.md
   - toggle.md
   - bar.md
-  - privacy.md
 
 # Build settings
 markdown: kramdown
